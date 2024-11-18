@@ -1,6 +1,6 @@
 ## root27.dev
 
-Welcome to the official GitHub organization for root27.dev!. This organization hosts a variety of side projects, tools, and templates developed and maintained by root27. Each project is structured to correspond with its own subdomain (e.g., projectname.root27.dev) to showcase its functionality directly on the web.
+Welcome to the official GitHub organization for root27.dev!. This organization hosts a variety of side projects, tools, and templates developed and maintained by root27. 
 
 ---
 
